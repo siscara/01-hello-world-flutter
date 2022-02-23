@@ -1,8 +1,12 @@
 # flutter_hello_word
+NAMA : SISCA DWI RAHAYU
+NIM : 2031710003
+KELAS : MI 2C
+PRODI : D3-MI
 
 A new Flutter project.
 
-## Getting Started
+## Hasil Praktikum
 
 This project is a starting point for a Flutter application.
 
